@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wlfghdr
 - 👀 I’m interested in DevOps lvlups via @Dynatrace
-- 📫 How to reach me wolfgang.heider@dynatrace.com
+- 📫 How to reach me https://www.linkedin.com/in/wolfgangheider/
 
 <!---
 wlfghdr/wlfghdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
