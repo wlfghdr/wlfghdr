@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wlfghdr
-- 👀 I’m interested in DevOps lvlups via @Dynatrace
+- 👀 I’m interested in LvLups via @Dynatrace
 - 📫 How to reach me https://www.linkedin.com/in/wolfgangheider/
 
 <!---
